@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using MySql.Data.MySqlClient;
 
+//
 class Phim
 {
     public string TenPhim { get; set; } = string.Empty;
